@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(162, 223, 202);
+}
+*{
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;   
+}
+
+.informacion img{
+width: 25%;
+}
+
+.informacion {
+    display:list-item;
+    place-items: right;
+
+}
